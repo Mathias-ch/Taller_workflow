@@ -1,5 +1,5 @@
 name: CI Pipeline
-run-name: Pruebas de Integración Continua por @${{ github.actor }}
+run-name: Pruebas de Integración Continua v1.0 por @${{ github.actor }}
 
 on:
   push:
